@@ -19,7 +19,7 @@ body {
     margin: 0;
     
     /* Aplica um gradiente suave como plano de fundo */
-    background: linear-gradient(135deg, #4c8be9 0%, #1a71fc 100%);
+    background: linear-gradient(135deg, #161616 0%, #1a71fc 100%);
 }
 
 /* Estilo do container principal da calculadora */
