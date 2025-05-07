@@ -19,7 +19,7 @@ body {
     margin: 0;
     
     /* Aplica um gradiente suave como plano de fundo */
-    background: linear-gradient(135deg, #024cbb 0%, #c3cfe2 100%);
+    background: linear-gradient(135deg, #4c8be9 0%, #1a71fc 100%);
 }
 
 /* Estilo do container principal da calculadora */
@@ -28,7 +28,7 @@ body {
     width: 320px;
     
     /* Cor de fundo branca */
-    background-color: #fff;
+    background-color: #abbde4;
     
     /* Bordas arredondadas */
     border-radius: 20px;
@@ -58,7 +58,7 @@ body {
     padding: 10px;
     
     /* Cor de fundo cinza claro */
-    background-color: #f8f9fa;
+    background-color: #0171e0;
     
     /* Bordas arredondadas */
     border-radius: 10px;
@@ -115,7 +115,7 @@ button {
     transition: all 0.2s ease;
     
     /* Cor de fundo padrão */
-    background-color: #e9ecef;
+    background-color: #919191;
 }
 
 /* Efeito quando o mouse passa sobre os botões */
@@ -131,7 +131,7 @@ button:hover {
 button:nth-child(4n),
 button:nth-child(19) {
     /* Cor laranja para operações */
-    background-color: #ff9f1c;
+    background-color: #3c00e2;
     
     /* Texto branco para contraste */
     color: white;
@@ -140,7 +140,7 @@ button:nth-child(19) {
 /* Estilo específico para o botão de limpar (C) */
 button#clear {
     /* Cor vermelha */
-    background-color: #ff6b6b;
+    background-color: #ff2121;
     
     /* Texto branco */
     color: white;
@@ -149,7 +149,7 @@ button#clear {
 /* Estilo para o botão de igual (=) */
 button#equals {
     /* Cor verde */
-    background-color: #2ec4b6;
+    background-color: #812ec4;
     
     /* Texto branco */
     color: white;
